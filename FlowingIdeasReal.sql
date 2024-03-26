@@ -20,7 +20,7 @@ IdeaTypeId INT NOT NULL FOREIGN KEY REFERENCES IdeaType(Id),
 IdeaText VARCHAR(400) NOT NULL
 );
 
-INSERT INTO IdeaType(IdeaTypeName) 
+INSERT INTO IdeaTypes(IdeaTypeName) 
 VALUES 
 ('Artistic'),
 ('Philosophical'),
