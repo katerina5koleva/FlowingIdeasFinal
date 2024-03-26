@@ -13,6 +13,11 @@ using System.Windows.Forms;
 
 namespace FlowingIdeasApp
 {
+    
+    /// <summary>
+    /// This is a form in which the user can rewrite
+    /// the text of their idea.
+    /// </summary>
     public partial class EditIdea : Form
     {
         private int userId;
