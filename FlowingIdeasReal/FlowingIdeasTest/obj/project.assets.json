@@ -1897,11 +1897,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
+      "projectUniqueName": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
       "projectName": "FlowingIdeasTest",
-      "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
+      "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
       "packagesPath": "C:\\Users\\katik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\FlowingIdeasTest\\obj\\",
+      "outputPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\katik\\AppData\\Roaming\\NuGet\\NuGet.Config",

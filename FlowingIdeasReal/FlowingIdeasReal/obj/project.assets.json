@@ -1213,11 +1213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\FlowingIdeasReal\\FlowingIdeasApp.csproj",
+      "projectUniqueName": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\FlowingIdeasApp.csproj",
       "projectName": "FlowingIdeasApp",
-      "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\FlowingIdeasReal\\FlowingIdeasApp.csproj",
+      "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\FlowingIdeasApp.csproj",
       "packagesPath": "C:\\Users\\katik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\FlowingIdeasReal\\obj\\",
+      "outputPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\katik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1234,11 +1234,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\Business\\Business.csproj"
+            "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Business\\Business.csproj"
             },
-            "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\Data\\Data.csproj"
+            "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\Data.csproj"
             }
           }
         }

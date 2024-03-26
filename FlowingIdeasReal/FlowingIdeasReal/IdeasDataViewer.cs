@@ -46,9 +46,12 @@ public partial class IdeasDataViewer : Form
         {
             if (e.ColumnIndex == dataGridView1.Columns["IdeaTypeId"].Index && e.Value != null)
             {
-                int ideaTypeValue = (int)e.Value;
-                string ideaTypeString = ideaBusinessLogic.GetIdeaTypeString(ideaTypeValue);
-                e.Value = ideaTypeString;
+                if (!(e.Value is string))
+                {
+                    int ideaTypeValue = (int)e.Value;
+                    string ideaTypeString = ideaBusinessLogic.GetIdeaTypeString(ideaTypeValue);
+                    e.Value = ideaTypeString;
+                }
             }
         };
         dataGridView1.ReadOnly = true;

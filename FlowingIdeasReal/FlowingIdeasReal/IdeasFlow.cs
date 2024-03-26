@@ -89,19 +89,19 @@ public partial class IdeasFlow : Form
             emptyUsernameBoxError.SetError(txtUsername, "Required");
             addBool = false;
         }
-        else if (userIdeaBusinessLogic.CheckIfAccountExists(writtenUsername))
+        else if (writtenUsername.Length < 3)
         {
-            MessageBox.Show("Username already exist, please try another! ", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            emptyUsernameBoxError.SetError(txtUsername, "Your username needs to be longer!");
+            addBool = false;
         }
         else if (writtenUsername.Length > 15)
         {
             emptyUsernameBoxError.SetError(txtUsername, "Your username needs to be shorter!");
             addBool = false;
         }
-        else if (writtenUsername.Length < 3)
+        else if (userIdeaBusinessLogic.CheckIfAccountExists(writtenUsername))
         {
-            emptyUsernameBoxError.SetError(txtUsername, "Your username needs to be longer!");
-            addBool = false;
+            MessageBox.Show("Username already exist, please try another! ", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
         else
         {

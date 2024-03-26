@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yo8/5P4qycLhKUCMcYCcdq9zCmWlsQd7YmmOWAjj2uuiJQimBQ1i6NZ+zaWiZF4ze0TmBzj8BTbI3GTiGIn3nA==",
+  "dgSpecHash": "qEQe3E+Ojwu3QQ031py9ICxrhjYjRKDwyI2OZk9nr6+2ZC8qQUbqek6Fwua4IQAUj3PtxyAWK+iA61LCJpMUHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
+  "projectFilePath": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasTest\\FlowingIdeasTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\katik\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\katik\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

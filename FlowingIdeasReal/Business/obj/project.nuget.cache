@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M2PoUQWrgzvkbh/oDh5nZl4F3SPtIWo2ghXEwRo/wzu5Ey41St11iLsB9k8RrSoOdZNTz1Vd5jXLssY2H3jZOA==",
+  "dgSpecHash": "ASCnV/1bwA+DRe/jEY3ZDRJpNGuBt7kMkXeIXHEZ2FWs1s3CQdCS7PaUlaeTZgR9ff3tiPAgj0epbltoAaQtuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\katik\\OneDrive\\Работен плот\\FlowingIdeas_Real\\FlowingIdeasReal\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\katik\\OneDrive\\Работен плот\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\katik\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\katik\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
