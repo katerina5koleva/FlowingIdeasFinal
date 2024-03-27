@@ -145,10 +145,12 @@ public partial class IdeasDataViewer : Form
         formAddIdea.Show();
     }
     /// <summary>
-    /// This is the code behind the close button.
+    /// This is the code behind the close button. It reopens the login form.
     /// </summary>
     private void buttonCancel_Click(object sender, EventArgs e)
     {
-        this.Close();
+        IdeasFlow formLogIn = new IdeasFlow();
+        this.Hide();
+        formLogIn.Show();
     }
 }

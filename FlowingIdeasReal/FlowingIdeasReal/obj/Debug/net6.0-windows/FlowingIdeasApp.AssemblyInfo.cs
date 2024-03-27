@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowingIdeasApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de3a8775b3c7501fd3053be9e3c7b09047e28a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7ced6367eac6487e28013f8a41b0aa217cca78f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowingIdeasApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowingIdeasApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
