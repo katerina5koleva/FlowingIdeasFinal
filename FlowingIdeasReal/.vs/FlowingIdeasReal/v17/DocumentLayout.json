@@ -1,86 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|c:\\users\\katik\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\flowingideasfinal\\flowingideasreal\\flowingideasreal\\ideasflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\ideasflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\ideasdataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\ideasdataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\ideasdataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\ideasdataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B7832AE-65AB-4031-B193-5E2F33A6F2F4}|Business\\Business.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\business\\userideabusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B7832AE-65AB-4031-B193-5E2F33A6F2F4}|Business\\Business.csproj|C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\business\\userideabusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B7832AE-65AB-4031-B193-5E2F33A6F2F4}|Business\\Business.csproj|solutionrelative:business\\userideabusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC2F30D-DB4E-42CB-AC8B-92748A838A61}|Data\\Data.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\data\\userideacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EC2F30D-DB4E-42CB-AC8B-92748A838A61}|Data\\Data.csproj|C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\data\\userideacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EC2F30D-DB4E-42CB-AC8B-92748A838A61}|Data\\Data.csproj|solutionrelative:data\\userideacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC2F30D-DB4E-42CB-AC8B-92748A838A61}|Data\\Data.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EC2F30D-DB4E-42CB-AC8B-92748A838A61}|Data\\Data.csproj|solutionrelative:data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC2F30D-DB4E-42CB-AC8B-92748A838A61}|Data\\Data.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\data\\model\\ideatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EC2F30D-DB4E-42CB-AC8B-92748A838A61}|Data\\Data.csproj|solutionrelative:data\\model\\ideatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC2F30D-DB4E-42CB-AC8B-92748A838A61}|Data\\Data.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\data\\model\\idea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EC2F30D-DB4E-42CB-AC8B-92748A838A61}|Data\\Data.csproj|solutionrelative:data\\model\\idea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\addidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\addidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\addidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\addidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\editidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\editidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\editidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\ideasdataviewer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\ideasdataviewer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\ideasflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\ideasflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\ideasflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\editidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\editidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\addidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\addidea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\editidea.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\ideasdataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\ideasdataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\ideasdataviewer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\ideasdataviewer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\editidea.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\editidea.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\addidea.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\addidea.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\flowingideasapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\flowingideasapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57C92979-3168-4E65-A0F5-FE34648CEA16}|FlowingIdeasTest\\FlowingIdeasTest.csproj|C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideastest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57C92979-3168-4E65-A0F5-FE34648CEA16}|FlowingIdeasTest\\FlowingIdeasTest.csproj|solutionrelative:flowingideastest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\flowingideasreal\\ideasflow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EA125A-30F9-48B2-8C4F-30E573BE4F0D}|FlowingIdeasReal\\FlowingIdeasApp.csproj|solutionrelative:flowingideasreal\\ideasflow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,251 +46,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IdeasDataViewer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\IdeasDataViewer.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.cs [Design]",
-              "RelativeToolTip": "FlowingIdeasReal\\IdeasDataViewer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:02:16.592Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EditIdea.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\EditIdea.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.cs [Design]",
-              "RelativeToolTip": "FlowingIdeasReal\\EditIdea.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:20:40.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EditIdea.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.Designer.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\EditIdea.Designer.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.Designer.cs",
-              "RelativeToolTip": "FlowingIdeasReal\\EditIdea.Designer.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAswEsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:14:11.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EditIdea.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\EditIdea.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.cs",
-              "RelativeToolTip": "FlowingIdeasReal\\EditIdea.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:10:41.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IdeasDataViewer.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.Designer.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\IdeasDataViewer.Designer.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.Designer.cs",
-              "RelativeToolTip": "FlowingIdeasReal\\IdeasDataViewer.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T10:51:16.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AddIdea.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\AddIdea.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\AddIdea.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\AddIdea.cs [Design]",
-              "RelativeToolTip": "FlowingIdeasReal\\AddIdea.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T09:36:24.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AddIdea.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\AddIdea.Designer.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\AddIdea.Designer.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\AddIdea.Designer.cs",
-              "RelativeToolTip": "FlowingIdeasReal\\AddIdea.Designer.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAApwCEAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T09:36:15.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddIdea.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\AddIdea.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\AddIdea.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\AddIdea.cs",
-              "RelativeToolTip": "FlowingIdeasReal\\AddIdea.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAArwBAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T08:08:01.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IdeasDataViewer.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\IdeasDataViewer.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.cs",
-              "RelativeToolTip": "FlowingIdeasReal\\IdeasDataViewer.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA5wDAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T19:19:22.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\App.config",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\App.config",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\App.config",
-              "RelativeToolTip": "FlowingIdeasReal\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-25T18:04:13.536Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IdeasFlow.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasFlow.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\IdeasFlow.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasFlow.cs",
-              "RelativeToolTip": "FlowingIdeasReal\\IdeasFlow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAJAAAA",
+              "Title": "UserIdeaBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\Business\\UserIdeaBusinessLogic.cs",
+              "RelativeDocumentMoniker": "Business\\UserIdeaBusinessLogic.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\Business\\UserIdeaBusinessLogic.cs",
+              "RelativeToolTip": "Business\\UserIdeaBusinessLogic.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAjwBcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T17:50:53.315Z",
+              "WhenOpened": "2024-03-25T16:51:40.819Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IdeasFlow.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasFlow.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\IdeasFlow.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasFlow.cs [Design]",
-              "RelativeToolTip": "FlowingIdeasReal\\IdeasFlow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T17:50:36.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\StartUp.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\StartUp.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\StartUp.cs",
-              "RelativeToolTip": "FlowingIdeasReal\\StartUp.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T17:00:30.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FlowingIdeasApp.csproj",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\FlowingIdeasApp.csproj",
-              "RelativeDocumentMoniker": "FlowingIdeasReal\\FlowingIdeasApp.csproj",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\FlowingIdeasApp.csproj",
-              "RelativeToolTip": "FlowingIdeasReal\\FlowingIdeasApp.csproj",
-              "ViewState": "AQIAABIAAAAA7+7u7u4DwBYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T16:55:51.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "FlowingIdeasTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasTest\\UnitTest1.cs",
-              "RelativeToolTip": "FlowingIdeasTest\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:55:46.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IdeaType.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\Model\\IdeaType.cs",
-              "RelativeDocumentMoniker": "Data\\Model\\IdeaType.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\Model\\IdeaType.cs",
-              "RelativeToolTip": "Data\\Model\\IdeaType.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:54:09.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Idea.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\Model\\Idea.cs",
-              "RelativeDocumentMoniker": "Data\\Model\\Idea.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\Model\\Idea.cs",
-              "RelativeToolTip": "Data\\Model\\Idea.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAQwAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:53:40.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Data\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\Model\\User.cs",
-              "RelativeToolTip": "Data\\Model\\User.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:53:23.593Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AddIdea.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\AddIdea.cs",
+              "RelativeDocumentMoniker": "FlowingIdeasReal\\AddIdea.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\AddIdea.cs",
+              "RelativeToolTip": "FlowingIdeasReal\\AddIdea.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwv2kAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:07:12.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditIdea.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.cs",
+              "RelativeDocumentMoniker": "FlowingIdeasReal\\EditIdea.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.cs",
+              "RelativeToolTip": "FlowingIdeasReal\\EditIdea.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:44:52.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdeasFlow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasFlow.cs",
+              "RelativeDocumentMoniker": "FlowingIdeasReal\\IdeasFlow.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasFlow.cs [Design]",
+              "RelativeToolTip": "FlowingIdeasReal\\IdeasFlow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:55:08.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserIdeaContext.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\UserIdeaContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\UserIdeaContext.cs",
               "RelativeDocumentMoniker": "Data\\UserIdeaContext.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\UserIdeaContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\Data\\UserIdeaContext.cs",
               "RelativeToolTip": "Data\\UserIdeaContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T16:52:00.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserIdeaBusinessLogic.cs",
-              "DocumentMoniker": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Business\\UserIdeaBusinessLogic.cs",
-              "RelativeDocumentMoniker": "Business\\UserIdeaBusinessLogic.cs",
-              "ToolTip": "C:\\Users\\katik\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\git\\FlowingIdeasFinal\\FlowingIdeasReal\\Business\\UserIdeaBusinessLogic.cs",
-              "RelativeToolTip": "Business\\UserIdeaBusinessLogic.cs",
-              "ViewState": "AQIAAK0AAAAAAAAAAAAcwLcAAAAYAAAA",
+              "DocumentIndex": 5,
+              "Title": "IdeasDataViewer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.cs",
+              "RelativeDocumentMoniker": "FlowingIdeasReal\\IdeasDataViewer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.cs [Design]",
+              "RelativeToolTip": "FlowingIdeasReal\\IdeasDataViewer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T16:51:40.819Z"
+              "WhenOpened": "2024-03-28T19:02:19.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdeasDataViewer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.Designer.cs",
+              "RelativeDocumentMoniker": "FlowingIdeasReal\\IdeasDataViewer.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasDataViewer.Designer.cs",
+              "RelativeToolTip": "FlowingIdeasReal\\IdeasDataViewer.Designer.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAnwHMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:37:36.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditIdea.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.Designer.cs",
+              "RelativeDocumentMoniker": "FlowingIdeasReal\\EditIdea.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\EditIdea.Designer.cs",
+              "RelativeToolTip": "FlowingIdeasReal\\EditIdea.Designer.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAnwGMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:56:29.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdeasFlow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasFlow.Designer.cs",
+              "RelativeDocumentMoniker": "FlowingIdeasReal\\IdeasFlow.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FlowingIdeasNew\\New folder\\FlowingIdeasFinal\\FlowingIdeasReal\\FlowingIdeasReal\\IdeasFlow.Designer.cs",
+              "RelativeToolTip": "FlowingIdeasReal\\IdeasFlow.Designer.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAUwIAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:45:26.425Z"
             }
           ]
         }
