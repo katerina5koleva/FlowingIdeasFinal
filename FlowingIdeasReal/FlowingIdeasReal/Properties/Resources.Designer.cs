@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FlowingIdeaApp.Properties {
+namespace FlowingIdeasApp.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace FlowingIdeaApp.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FlowingIdeaApp.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FlowingIdeasApp.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,16 +63,6 @@ namespace FlowingIdeaApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap flower_156608_640 {
-            get {
-                object obj = ResourceManager.GetObject("flower-156608_640", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap flowers_34592_1280 {
             get {
                 object obj = ResourceManager.GetObject("flowers-34592_1280", resourceCulture);
@@ -83,9 +73,19 @@ namespace FlowingIdeaApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap flowers_34592_640 {
+        internal static System.Drawing.Bitmap owlbert_3_actual {
             get {
-                object obj = ResourceManager.GetObject("flowers-34592_640", resourceCulture);
+                object obj = ResourceManager.GetObject("owlbert 3 actual", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap owlbert_3_actual2 {
+            get {
+                object obj = ResourceManager.GetObject("owlbert 3 actual2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -106,36 +106,6 @@ namespace FlowingIdeaApp.Properties {
         internal static System.Drawing.Bitmap owlbert2 {
             get {
                 object obj = ResourceManager.GetObject("owlbert2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap owlbert21 {
-            get {
-                object obj = ResourceManager.GetObject("owlbert21", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap owlbert22 {
-            get {
-                object obj = ResourceManager.GetObject("owlbert22", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap rose_398576_640 {
-            get {
-                object obj = ResourceManager.GetObject("rose-398576_640", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -118,28 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="owlbert22" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\owlbert22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="rose-398576_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rose-398576_640.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="flowers-34592_1280" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\flowers-34592_1280.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="owlbert 3 actual" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\owlbert 3 actual.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="owlbert2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\owlbert2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="owlbert 3 actual2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\owlbert 3 actual2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="owlbert1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\owlbert1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="owlbert21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\owlbert21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flowers-34592_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\flowers-34592_640.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="flower-156608_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\flower-156608_640.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
