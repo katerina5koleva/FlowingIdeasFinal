@@ -7,10 +7,10 @@
     <Compile Update="EditIdea.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="IdeasFlow.cs">
+    <Compile Update="IdeasDataViewer.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="IdeasDataViewer.cs">
+    <Compile Update="IdeasFlow.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
