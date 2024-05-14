@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Business</name>
+    </assembly>
+    <members>
+        <member name="T:Business.UserIdeaBusinessLogic">
+            <summary>
+            This class creates the controller, 
+            in other words the business logic of the app. All of our main methods are here. 
+            It's the connection between the data/base/ and the view.
+            </summary>
+        </member>
+        <member name="M:Business.UserIdeaBusinessLogic.CheckIfAccountExists(System.String)">
+            <summary>
+            This method checks if the username already exists in the database
+            (in table Users)
+            </summary>
+        </member>
+        <member name="M:Business.UserIdeaBusinessLogic.CreateAccount(System.String)">
+            <summary>
+            This method creates a user account in the DB.
+            </summary>
+        </member>
+        <member name="M:Business.UserIdeaBusinessLogic.GetUserId(System.String)">
+            <summary>
+            This method gets the user Id from the database
+            based on the username.
+            </summary>
+        </member>
+        <member name="M:Business.UserIdeaBusinessLogic.GetIdeaTypeString(System.Int32)">
+            <summary>
+            This method converts the int IdeaTypeId to a string.
+            </summary>
+        </member>
+        <member name="M:Business.UserIdeaBusinessLogic.AddIdea(System.Int32,Data.Model.IdeaType,System.String)">
+            <summary>
+            This method creates the idea in the database.
+            </summary>
+        </member>
+        <member name="M:Business.UserIdeaBusinessLogic.GetAll(System.Int32)">
+            <summary>
+            This method gets all of the ideas of the signed up user.
+            </summary>
+        </member>
+        <member name="M:Business.UserIdeaBusinessLogic.GetIdeasByType(System.Int32,Data.Model.IdeaType)">
+            <summary>
+            This method gets the ideas of the user, depending on the type.
+            </summary>
+        </member>
+        <member name="M:Business.UserIdeaBusinessLogic.Delete(System.Int32)">
+            <summary>
+            This method deleted the chosen idea from the user ideas.
+            </summary>
+        </member>
+        <member name="M:Business.UserIdeaBusinessLogic.Edit(System.Int32,System.Int32,System.String)">
+            <summary>
+            This method edits an already written idea by the user.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FlowingIdeasApp</name>
+    </assembly>
+    <members>
+        <member name="T:FlowingIdeasApp.AddIdea">
+            <summary>
+            This class adds ideas in the database.
+            From the radiobuttons we choose the type of the idea,
+            we inherit the userId from the IdeasDataViewer form
+            and we have the text of the idea, of course.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.AddIdea.ClearTextBoxes">
+            <summary>
+            This method clears the text box.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.AddIdea.TypeArtisticIdea_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            This radio button selects the type of the idea as artistic
+            and saves the idea type Id (1), which we need to create the idea.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.AddIdea.TypePhilosophicalIdea_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            This radio button selects the type of the idea as philosophical
+            and saves the idea type Id (2), which we need to create the idea.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.AddIdea.TypeWorkIdea_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            This radio button selects the type of the idea as work
+            and saves the idea type Id (3), which we need to create the idea.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.AddIdea.buttonCancel_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button hides the Adding an idea form
+            and takes us back to the DataViewer form.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.AddIdea.buttonSave_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button saves the idea and adds it to the table Ideas in the database,
+            using the controller.
+            It also checks whether it meets the length requirements.
+            </summary>
+        </member>
+        <member name="F:FlowingIdeasApp.AddIdea.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.AddIdea.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FlowingIdeasApp.AddIdea.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.EditIdea.ClearTextBoxes">
+            <summary>
+            This method clears the text box.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.EditIdea.buttonCancel_Click(System.Object,System.EventArgs)">
+            <summary>
+            This method is activated when the cancel button is clicked.
+            It hides the current form and opens again the IdeasDataViewer form.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.EditIdea.buttonSave_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button saves the idea and adds it to the table Ideas in the database,
+            using the controller.
+            It also checks whether it meets the length requirements.
+            </summary>
+        </member>
+        <member name="F:FlowingIdeasApp.EditIdea.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasApp.EditIdea.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FlowingIdeasApp.EditIdea.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:FlowingIdeasApp.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:FlowingIdeasApp.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:FlowingIdeasApp.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:FlowingIdeasApp.Properties.Resources.flowers_34592_1280">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:FlowingIdeasApp.Properties.Resources.owlbert_3_actual">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:FlowingIdeasApp.Properties.Resources.owlbert_3_actual2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:FlowingIdeasApp.Properties.Resources.owlbert1">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:FlowingIdeasApp.Properties.Resources.owlbert2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="T:FlowingIdeas.Presentation.IdeasDataViewer">
+            <summary>
+            This windows form allows users to add, edit, and delete different
+            types of ideas (artistic, work, philosophical) through various button clicks,
+            with data displayed in a DataGridView.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.UpdateGrid(System.Int32)">
+            <summary>
+            This automatically shows all the ideas that the user has from the database.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.FilterAndDisplayIdeas">
+            <summary>
+            This method is reposible for visualizing the data for the checkboxes simulatinuously.
+            It adds the ideas to a list that is shown.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.dataGridView1_CellContentClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)">
+            <summary>
+            This method allows us to click and choose a specific cell.
+            The first if checks whether the cell is the button delete,
+            uses the method Delete from the Business logic
+            and updated the grid.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.PhlosophicalCheckBox_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            This is the code behind the Philosophical Idea check box button.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.artisticIdeaCheckBox_CheckedChanged_1(System.Object,System.EventArgs)">
+            <summary>
+            This the code behind the Artistic Idea check box button.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.workIdeaCheckBox_CheckedChanged_1(System.Object,System.EventArgs)">
+            <summary>
+            This is the code behind the Work Related Idea check box button.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.AddAnIdeaButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            This method is initialized when the add an idea button is clicked.
+            It opens a new form in which you can write your ideas.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.buttonCancel_Click(System.Object,System.EventArgs)">
+            <summary>
+            This is the code behind the close button.
+            </summary>
+        </member>
+        <member name="F:FlowingIdeas.Presentation.IdeasDataViewer.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasDataViewer.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:FlowingIdeas.Presentation.IdeasFlow">
+            <summary>
+            This is the first window that is an implementation of a login/signup functionality
+            for managing user ideas in a Windows Forms application, with database interaction handled through the business logic.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasFlow.buttonLogIn_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button handles the click event of the login.
+            It establishes a database connection, checks if the username exists and
+            shows an error message if the username doesn't exist.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasFlow.buttonCancel_Click(System.Object,System.EventArgs)">
+            <summary>
+            This button closes the form when the cancel is clicked.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasFlow.buttonSignUp_Click_1(System.Object,System.EventArgs)">
+            <summary>
+            This button handles the click event of the sign-up. It checks if the username already exists, 
+            validates the length of the username, and inserts a new username into the database if validation passes.
+            </summary>
+        </member>
+        <member name="F:FlowingIdeas.Presentation.IdeasFlow.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasFlow.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FlowingIdeas.Presentation.IdeasFlow.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasReal.StartUp.Main">
+            <summary>
+             This is an app in which you can write and save your ideas 
+             in the following categories: artistic, work, philosophical.
+             It uses the entity framework and Microsoft SQL Server.
+             It requiers a username.
+            </summary>
+        </member>
+        <member name="T:FlowingIdeasReal.ApplicationConfiguration">
+            <summary>
+             Bootstrap the application configuration.
+            </summary>
+        </member>
+        <member name="M:FlowingIdeasReal.ApplicationConfiguration.Initialize">
+            <summary>
+             Bootstrap the application as follows:
+             <code>
+             global::System.Windows.Forms.Application.EnableVisualStyles();
+             global::System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(false);
+             global::System.Windows.Forms.Application.SetHighDpiMode(HighDpiMode.SystemAware);
+            </code>
+            </summary>
+        </member>
+    </members>
+</doc>

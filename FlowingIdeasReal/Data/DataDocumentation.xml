@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Data</name>
+    </assembly>
+    <members>
+        <member name="T:Data.Model.Idea">
+            <summary>
+            This class is the structure of the table "Idea" in the database. 
+            It has an auto incremented id, 
+            a two foreign keys: UserId that references table "Users" 
+            and IdeaTypeId, referencing table "IdeaType". 
+            It also has the property IdeaText that saves the text of the idea. 
+            </summary>
+        </member>
+        <member name="T:Data.Model.User">
+            <summary>
+            This class is the structure of the table "Users" in the database. 
+            It has an auto incremented id and a username.
+            </summary>
+        </member>
+        <member name="T:Data.UserIdeaContext">
+            <summary>
+            This class maps the classes 
+            we have in the folder "Model" into the tables of the database.
+            </summary>
+        </member>
+    </members>
+</doc>

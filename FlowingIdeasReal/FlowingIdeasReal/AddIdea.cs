@@ -1,15 +1,6 @@
 ﻿using Business;
+using Data.Model;
 using FlowingIdeas.Presentation;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace FlowingIdeasApp
 {
@@ -22,18 +13,15 @@ namespace FlowingIdeasApp
 	public partial class AddIdea : Form
 	{
 		private int userId;
-		private int ideaTypeId;
-		private UserIdeaBusinessLogic ideaBusinessLogic = new UserIdeaBusinessLogic();
+		private IdeaType ideaType;
+		private UserIdeaBusinessLogic ideaBusinessLogic = new();
+
 		public AddIdea(int userId)
 		{
 			InitializeComponent();
 			this.userId = userId;
 		}
 
-		private void AddIdea_Load(object sender, EventArgs e)
-		{
-
-		}
 		/// <summary>
 		/// This method clears the text box.
 		/// </summary>
@@ -41,36 +29,34 @@ namespace FlowingIdeasApp
 		{
 			txtIdea.Text = "";
 		}
+
 		/// <summary>
 		/// This radio button selects the type of the idea as artistic
 		/// and saves the idea type Id (1), which we need to create the idea.
 		/// </summary>
 		private void TypeArtisticIdea_CheckedChanged(object sender, EventArgs e)
 		{
-			int artisticIdeaTypeId = 1;
-			ideaTypeId = artisticIdeaTypeId;
-			ideaBusinessLogic.IdeaType(artisticIdeaTypeId);
+			ideaType = IdeaType.Artistic;
 		}
+
 		/// <summary>
 		/// This radio button selects the type of the idea as philosophical
 		/// and saves the idea type Id (2), which we need to create the idea.
 		/// </summary>
 		private void TypePhilosophicalIdea_CheckedChanged(object sender, EventArgs e)
 		{
-			int philosophicalIdeaId = 2;
-			ideaTypeId = philosophicalIdeaId;
-			ideaBusinessLogic.IdeaType(philosophicalIdeaId);
+			ideaType = IdeaType.Philosopical;
 		}
+
 		/// <summary>
 		/// This radio button selects the type of the idea as work
 		/// and saves the idea type Id (3), which we need to create the idea.
 		/// </summary>
 		private void TypeWorkIdea_CheckedChanged(object sender, EventArgs e)
 		{
-			int workIdeaId = 3;
-			ideaTypeId = workIdeaId;
-			ideaBusinessLogic.IdeaType(workIdeaId);
+			ideaType = IdeaType.Work;
 		}
+
 		/// <summary>
 		/// This button hides the Adding an idea form
 		/// and takes us back to the DataViewer form.
@@ -80,8 +66,8 @@ namespace FlowingIdeasApp
 			IdeasDataViewer formViewIdeas = new IdeasDataViewer(userId);
 			this.Hide();
 			formViewIdeas.Show();
-
 		}
+
 		/// <summary>
 		/// This button saves the idea and adds it to the table Ideas in the database,
 		/// using the controller.
@@ -90,19 +76,16 @@ namespace FlowingIdeasApp
 		private void buttonSave_Click(object sender, EventArgs e)
 		{
 			errorProvider1.Clear();
-			bool addBool = true;
 
 			string newIdeaText = txtIdea.Text;
 
 			if (string.IsNullOrEmpty(newIdeaText))
 			{
 				errorProvider1.SetError(txtIdea, "Required");
-				addBool = false;
 			}
 			else if (newIdeaText.Length < 3)
 			{
 				errorProvider1.SetError(txtIdea, "Your idea should be longer!!!");
-				addBool = false;
 			}
 			else if (newIdeaText.Length > 400)
 			{
@@ -110,7 +93,8 @@ namespace FlowingIdeasApp
 			}
 			else
 			{
-				ideaBusinessLogic.AddIdea(userId, ideaTypeId, newIdeaText);
+				ideaBusinessLogic.AddIdea(userId, ideaType, newIdeaText);
+
 				MessageBox.Show("Your idea was created!");
 				ClearTextBoxes();
 				this.Hide();
@@ -119,7 +103,7 @@ namespace FlowingIdeasApp
 			}
 		}
 
-		private void label2_Click(object sender, EventArgs e)
+		private void AddIdea_Load(object sender, EventArgs e)
 		{
 
 		}
